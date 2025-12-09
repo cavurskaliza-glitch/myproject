@@ -1,6 +1,8 @@
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f0f0f0;
+/* Новий стиль для індивідуального проєкту */
+.header {
+    background-color: #f2e6ff;
+    color: #3a125e;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
 }
